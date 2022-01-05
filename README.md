@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Chris 👋
 
 <!--
 **christopher-paul-shaw/christopher-paul-shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+Hello and welcome to my GitHub, I am a software developer with over a decade experience in developing software and maintaining linux based systems.
