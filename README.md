@@ -6,9 +6,11 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 
 ## Skills and Experience
 - Languages: PHP5, PHP7, HTML, CSS, MySQL, BASH, Shell, Vanilla Javascript, and some Java
-- Experience with Virtual Machines, Vagrant, Docker
-- Experience Designing and Deploying CI Solutions including CircleCI and GitHub Actions
-- Experienced in using and administering linux systems
+- Virtual Machines, Vagrant, Docker
+- Designing and Deploying CI Solutions including CircleCI and GitHub Actions
+- Using annd Administering Windows and Linux based Systems
+- Agile and Waterfall Workflows
+- Managing AWS Infrastructure
 
 ## Currently Learning
 - Android App Development
@@ -21,6 +23,8 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - OpenSource Software
 - National Trust Walks
 - Netflix / Cinema -aholic
+- Casual Gaming
+- F1
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/christopher-shaw-8b889198/)
