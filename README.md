@@ -16,6 +16,12 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Android App Development
 - Automation and Environment Techniques
 
+## Future Development Goals
+- Create a NodeJS App
+- Create a Python App
+- Create a C# App
+- Create a Single Page Application (Vue.js)
+
 ## Interests
 - DevOps
 - Software Development
