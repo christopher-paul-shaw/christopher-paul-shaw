@@ -8,7 +8,7 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Languages: PHP5, PHP7, HTML, CSS, MySQL, BASH, Shell, Vanilla Javascript, and some Java
 - Virtual Machines, Vagrant, Docker
 - Designing and Deploying CI Solutions including CircleCI and GitHub Actions
-- Using annd Administering Windows and Linux based Systems
+- Using and Administering Windows and Linux based Systems
 - Agile and Waterfall Workflows
 - Managing AWS Infrastructure
 
