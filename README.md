@@ -6,7 +6,7 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 
 ## Skills and Experience
 - Main Languages: PHP5, PHP7, HTML, CSS, MySQL, BASH, Shell, Vanilla Javascript
-- Experience in: NodeJs
+- Experience in: NodeJs, Azure Functions
 - Virtual Machines, Vagrant, Docker
 - Designing and Deploying CI Solutions including CircleCI and GitHub Actions
 - Using and Administering Windows and Linux based Systems
