@@ -14,7 +14,8 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Managing AWS Infrastructure
 
 ## Currently Learning
-- NodeJS
+- NodeJS / Typescript
+- Azure Functions / Serverless / FaaS
 - C#
 - Android App Development
 - Automation and Environment Techniques
@@ -25,7 +26,7 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Create a Single Page Application (Vue.js)
 
 # Achievements
-- Created a Toy Phone App in Java (Androuid)
+- Created a Toy Phone App in Java (Android)
 - Migrated Legacy php5.4 systems to 7.4
 - Developed QA Infrastucture and Deployment Pipelines
 
