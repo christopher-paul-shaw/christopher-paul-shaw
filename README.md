@@ -5,8 +5,10 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Always looking for a challenge
 
 ## Skills and Experience
+- Able to Work with Product Owners and transition an initial idea into becoming a story, developing, testing, documenting, releasing and maintaining.
+- Working as part of Agile Mobs or in Silo
 - Main Languages: PHP5, PHP7, HTML, CSS, MySQL, BASH, Shell, Vanilla Javascript
-- Experience in: NodeJs, Azure Functions
+- Experience in: NodeJs, Azure Functions, C#, Typescript
 - Virtual Machines, Vagrant, Docker
 - Designing and Deploying CI Solutions including CircleCI and GitHub Actions
 - Using and Administering Windows and Linux based Systems
@@ -22,7 +24,6 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 
 ## Future Development Goals
 - Create a Python App
-- Create a C# App
 - Create a Single Page Application (Vue.js)
 
 # Achievements
