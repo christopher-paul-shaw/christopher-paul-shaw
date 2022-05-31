@@ -9,6 +9,8 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - HTML, CSS, Javascript, Bash ( 8 Years )
 - C#. Typescript, NodeJS (< 1 Year)
 - DevOps ( Linux, Github Actions, Pipelines, AWS, CircleCI ) (<8 Years)
+- AWS (>3 Years)
+- Azure (< 1 Years)
 
 ## Skills and Experience
 - Able to Work with Product Owners and transition an initial idea into becoming a story, developing, testing, documenting, releasing and maintaining.
