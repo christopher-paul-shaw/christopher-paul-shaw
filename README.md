@@ -11,6 +11,7 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - DevOps ( Linux, Github Actions, Pipelines, AWS, CircleCI ) (<8 Years)
 - AWS (>3 Years)
 - Azure (< 1 Years)
+- Kubernetes
 
 ## Skills and Experience
 - Able to Work with Product Owners and transition an initial idea into becoming a story, developing, testing, documenting, releasing and maintaining.
@@ -24,11 +25,10 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Managing AWS Infrastructure
 
 ## Currently Learning
-- NodeJS / Typescript
 - Azure Functions / Serverless / FaaS
 - C#
-- Android App Development
 - Automation and Environment Techniques
+- Kubernetes
 
 ## Future Development Goals
 - Create a Python App
@@ -38,9 +38,12 @@ Hello and welcome to my GitHub, I am a software developer with over a decade exp
 - Created a Toy Phone App in Java (Android)
 - Migrated Legacy php5.4 systems to 7.4
 - Developed QA Infrastucture and Deployment Pipelines
+- B2B and B2C APIs
+- Comparison Engine
 
 ## Interests
 - DevOps
+- Kubernetes
 - Software Development
 - Retro and Modern hardware
 - OpenSource Software
